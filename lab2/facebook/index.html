@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Facebook - Log In or Sign Up</title>
+        <link rel="icon" href="https://pnggrid.com/wp-content/uploads/2021/05/Facebook-logo-2021.png" type="image/icon">
+        <style>
+            body{
+                background-color: #f1f2f6;
+            }
+            .left{
+                margin-top: 173px;
+                margin-left: 263px;
+            }
+            .logo{
+                width: 302px;
+                height: 106px;
+                margin-left: -30px;
+            }
+            .logo-text{
+                margin-top: -10px;
+                width: 500px;
+                font-size: 28px;
+                font-family: Helvetica, Arial, sans-serif;
+                font-weight: normal;
+            }
+            .sign{
+                background-color: white;
+                height: 350px;
+                /* display: flex; */
+                border: none;
+                border-radius: 8px;
+                box-shadow: 0 1px 1px rgb(0 0 0 / 1%), 0 8px 16px rgb(0 0 0 / 15%);
+                box-sizing: border-box;
+                margin-left: 842px;
+                margin-top: -230px;
+                width: 396px;
+                text-align: center;
+                padding-bottom: 24px;
+            }
+            ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: #90949a;
+                    opacity: 1; /* Firefox */
+            }
+            .input-email{
+                /* display: inline-block; */
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 17px;
+                padding-left: 15px;
+                width: 343px;
+                height: 50px;
+                border: 1px solid #dddfe2;
+                color: #1d2129;
+                border-radius: 6px;
+                font-size: 17px;
+            }
+            .input-pass{
+                /* display: inline-block; */
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 10px;
+                padding-left: 15px;
+                width: 343px;
+                height: 47px;
+                border: 1px solid #dddfe2;
+                color: #90949a;
+                border-radius: 6px;
+                font-size: 17px;
+            }
+            .but-login{
+                width: 360px;
+                margin-top: 15px;
+                height: 49px;
+                background-color: #1878f3;
+                color: white;
+                border-radius: 7px;
+                border: none;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+                font-weight: bold;
+            }
+            .but-login:hover{
+                background-color: #186ce4;
+            }
+            .but-login:active{
+                background-color: #304c7c;
+            }
+            .forget-pass {
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                font-size: 14px;
+                margin-top: 15px;
+                text-align: center;
+                color: #1877f2;
+            }
+            .forget-pass:hover{
+                text-decoration: underline;
+            }
+            .line{
+                align-items: center;
+                border-bottom: 1px solid #dadde1;
+                /* display: flex; */
+                margin-top: 22px;
+                margin-left: 20px;
+                text-align: center;
+                width: 360px;
+            }
+            .but-create{
+                width: 190px;
+                height: 50px;
+                border-radius: 7px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                font-size: 17px;
+                margin-top: 25px;
+                border: none;
+                background-color: #49b632;
+                color: white;
+            }
+            .but-create:hover{
+                background-color: #38a424;
+            }
+            .but-create:active{
+                background-color: #309414;
+            }
+            .create-page{
+                font-weight: bold;
+                font-size: 14px;
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                color: black;
+            }
+            .create-page:hover{
+                text-decoration: underline;
+            }
+            .create-page-div{
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 30px 0px 0px 888px;
+                font-size: 14px;
+            }
+            .footer{
+                width: 1061px;
+                margin-left: -10px;
+                margin-top: 220px;
+                text-align: left;
+                background-color: white;
+                padding: 20px 200px 0px 260px;
+                height: 175px;
+            }
+
+            .footer-lang{
+                width: 980px;
+                margin-left: 15px;
+                border-bottom: 1px solid #bbb8b898;
+                height: 40px;
+                line-height: 45px;
+                font-size: 12px;
+                color:#848484;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .footer-lang a{
+                color:#848484;
+                display: inline;
+                margin-left: 10px;
+                text-decoration: none;
+            }
+
+            .footer-lang a:hover{
+                text-decoration: underline;
+            }
+
+            .footer-info{
+                width: 980px;
+                margin: 10px 0px 0px 10px;
+                font-size: 12px;
+                color:#848484;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .footer-info a{
+                color:#848484;
+                display: inline-block;
+                margin: 6px 6px 0px 6px;
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+            }
+
+            .footer-info a:hover{
+                text-decoration: underline;
+            }
+            .footer-info p{
+                margin-top: 10px;
+                margin-left: 0px;
+                /* margin-bottom: 10px; */
+            }
+            #gg:hover{
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <div class="left">
+                <img class="logo" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg">
+                <h2 class="logo-text">Connect with friends and the world around you on Facebook.</h2>
+            </div>
+            <div class="sign">
+                <input class="input-email" type="text" placeholder="Email or phone number">
+                <input class="input-pass" type="password" placeholder="Password">
+                <button class="but-login">Log In</button>
+                <div class="forget-pass"><a class="forget-pass" href="https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0">Forgot password?</a></div>
+                <div class="line"></div>
+                <button class="but-create">Create new account</button>
+            </div>
+            <div class="create-page-div"><a class="create-page" href="https://www.facebook.com/pages/create/?ref_type=registration_form">Create a Page</a> for a celebrity, brand or business.</div>
+        </div>
+        <div class="footer"> 
+            <div class="footer-lang">
+                English (UK) <a href="https://ru-ru.facebook.com/">  Русский  </a><a href="https://tr-tr.facebook.com/">  Türkçe  </a><a href="https://id-id.facebook.com/">  Bahasa Indonesia  </a>
+                <a href="https://zh-cn.facebook.com/">  中文(简体)  </a><a href="https://kk-kz.facebook.com/">  Қазақша  </a><a href="https://de-de.facebook.com/">  Deutsch  </a><a href="https://ko-kr.facebook.com/">  한국어  </a>
+                <a href="https://sq-al.facebook.com/">  Shqip  </a><a href="https://es-la.facebook.com/">  Español  </a><a href="https://pt-br.facebook.com/">  Português (Brasil)  </a>
+            </div>
+            <div  class="footer-info"><p>
+                <a href="">Sign Up</a>
+                <a href="">Log In</a>
+                <a href="">Messenger</a>
+                <a href="">Facebook Lite</a>
+                <a href="">Watch</a>
+                <a href="">Places</a>
+                <a href="">Games</a>
+                <a href="">Marketplace</a>
+                <a href="">Facebook pay</a>
+                <a href="">Oculus</a>
+                <a href="">Portal</a>
+                <a href="">Instagram</a>
+                <a href="">Bulletin</a>
+                <a href="">Local</a><br>
+                <a href="">Fundraisers</a>
+                <a href="">Services</a>
+                <a href="">Voting Information Center</a>
+                <a href="">Groups</a>
+                <a href="">About</a>
+                <a href="">Create Ad</a>
+                <a href="">Create Page</a>
+                <a href="">Developers</a>
+                <a href="">Careers</a>
+                <a href="">Privacy</a>
+                <a href="">Cookies</a>
+                <a href="">Ad choices></a>
+                <a href="">Terms</a><br>
+                <a href="">Help</a><br><br>
+                <a id="gg">Meta © 2022</a>
+            </div>
+        </div>
+    </body>
+</html>
