@@ -6,7 +6,7 @@ let task = document.querySelectorAll('.task');
 let deleteimg = document.querySelectorAll('.delete-img');
 
 function add(){
-    if (InputFill.value != null){
+    if (InputFill.value != ""){
         let div = document.createElement('div');
         div.className = "task";
 
@@ -31,10 +31,10 @@ function add(){
     }
 }
 
+
+
 function remove(){
     this.parentNode.remove();
 }
-function clear(){
-    deleteimg[0].addEventListener('click', remove);
-}
-clear();
+AddBtn.addEventListener('click', add);
+deleteimg.addEventListener('click', remove);
