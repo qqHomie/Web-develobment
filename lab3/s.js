@@ -31,8 +31,6 @@ function add(){
     }
 }
 
-
-
 function remove(){
     this.parentNode.remove();
 }
