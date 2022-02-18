@@ -27,7 +27,7 @@ function add(){
         div.appendChild(span);
         div.appendChild(delimg);
 
-        inputText.value = null;
+        InputFill.value = '';
     }
 }
 
