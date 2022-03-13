@@ -1,8 +1,10 @@
 let tasks = document.querySelector('.tasks');
+console.log(tasks);
 let AddBtn = document.querySelector('.add-btn');
 let InputFill = document.querySelector('.input-fill');
 
 let task = document.querySelectorAll('.task');
+tasks.append(task[0]);
 let deleteimg = document.querySelectorAll('.delete-img');
 
 function add(){
@@ -35,4 +37,10 @@ function remove(){
     this.parentNode.remove();
 }
 AddBtn.addEventListener('click', add);
-deleteimg.addEventListener('click', remove);
+if (!!deleteimg){
+
+    for(let i = 0; i< deleteimg.length; i++){
+        deleteimg[i].addEventListener('click', remove);
+    }
+}
+// deleteimg.addEventListener('click', remove);

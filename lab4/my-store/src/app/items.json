@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 256 GB",
+    "link": "https://www.amazon.com/Oculus-Quest-Advanced-All-One-Virtual/dp/B09B8DQ26F/ref=lp_16225016011_1_2",
+    "imageLink": "https://m.media-amazon.com/images/I/61kwRNPtMpL._SL1500_.jpg",
+    "description": "Next-level Hardware - Make every move count with a blazing-fast processor and our highest-resolution display",
+    "rating": 3.2,
+    "categoryId": 1
+  },
+  {
+    "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+    "link": "https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/ref=lp_16225007011_1_2",
+    "imageLink": "https://m.media-amazon.com/images/I/81tjLksKixL._AC_SL1500_.jpg",
+    "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive",
+    "rating": 4.7,
+    "categoryId": 1
+  },
+  {
+    "name": "Sceptre 24 Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+    "link": "https://www.amazon.com/Sceptre-E248W-19203R-Monitor-Speakers-Metallic/dp/B0773ZY26F/ref=lp_16225007011_1_3",
+    "imageLink": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_SL1257_.jpg",
+    "description": "Slim bezel with thin chassis. Power Range (V, A, Hz)- AC-DC Adapter Input 100 – 240 VAC, 50/60 Hz, 1.0A (Max.) Output - 12V DC, 2.5A. Power Consumption (Typical)- 25.4W. Neck/Stand Detachable: Yes",
+    "rating": 4.5,
+    "categoryId": 1
+  },
+  {
+    "name": "Logitech MK270 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact Mouse, 8 Multimedia and Shortcut Keys, 2-Year Battery Life, for PC, Laptop",
+    "link": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5/ref=lp_16225007011_1_4",
+    "imageLink": "https://m.media-amazon.com/images/I/61pUul1oDlL._AC_SL1500_.jpg",
+    "description": "Long Battery Life: MK270 combo features a 36-month keyboard and 12-month mouse battery life (3), along with on/off switches allowing you to go months without the hassle of changing batteries",
+    "rating": 4.7,
+    "categoryId": 1
+  },
+  {
+    "name": "HP DeskJet 4155e All-in-One Wireless Color Printer, with bonus 6 months free Instant Ink with HP+ (26Q90A)",
+    "link": "https://www.amazon.com/HP-DeskJet-4155e-Wireless-Printer/dp/B08XYRDSL7/ref=lp_16225007011_1_6",
+    "imageLink": "https://m.media-amazon.com/images/I/612G5AUOZWL._AC_SL1500_.jpg",
+    "description": "HP+ SMART PRINTING SYSTEM – The optional HP+ system enables your printer to think ahead so it's more secure, more productive and ready when you are. Requires an HP account, internet connection and use of only Original HP Ink for the life of the printer.",
+    "rating": 4.6,
+    "categoryId": 1
+  },
+
+
+  {
+    "name": "Neutrogena Makeup Remover Cleansing Face Wipes, Daily Cleansing Facial Towelettes to Remove Waterproof Makeup and Mascara, Alcohol-Free, Value Twin Pack, 25 Count, 2 Pack",
+    "link": "https://www.amazon.com/Neutrogena-Cleansing-Towelettes-Waterproof-Alcohol-Free/dp/B00U2VQZDS/ref=sr_1_3?pd_rd_r=d98ef259-24d9-41d6-a3c1-7b0d178aecff&pd_rd_w=mQGXr&pd_rd_wg=w5jWN&pf_rd_p=eab778f7-37cf-4c6b-9552-5370900592a9&pf_rd_r=G3H84FMH6FW0DJ8SET4S&qid=1647190809&s=beauty-intl-ship&sr=1-3",
+    "imageLink": "https://m.media-amazon.com/images/I/81a10H+CuJL._SL1500_.jpg",
+    "description": "Twin pack with 25-count each of ultra-soft, pre-moistened Neutrogena Makeup Remover Face Wipes with a micellar-infused triple emollient formula remove makeup and cleanse skin while leaving it feeling refreshed, soft, smooth and conditioned",
+    "rating": 4.7,
+    "categoryId": 2
+  },
+  {
+    "name": "Listerine Total Care Anticavity Fluoride Mouthwash, 6 Benefit Oral Rinse Helps Kill 99% of Bad Breath Germs, Prevents Cavities, Strengthens Teeth, ADA-Accepted, Fresh Mint, 1 L",
+    "link": "https://www.amazon.com/Listerine-Anticavity-Mouthwash-Fluoride-Packaging/dp/B00495Q5OW/ref=sr_1_9?pd_rd_r=d98ef259-24d9-41d6-a3c1-7b0d178aecff&pd_rd_w=mQGXr&pd_rd_wg=w5jWN&pf_rd_p=eab778f7-37cf-4c6b-9552-5370900592a9&pf_rd_r=G3H84FMH6FW0DJ8SET4S&qid=1647190915&s=beauty-intl-ship&sr=1-9",
+    "imageLink": "https://m.media-amazon.com/images/I/81vNiROdiIL._SL1500_.jpg",
+    "description": "FLUORIDE ANTICAVITY MOUTHWASH: 1-liter of Listerine Fluoride Anticavity Mouthwash in fresh mint flavor to improve oral health by helping to prevent cavities, strengthening teeth, and leaving a refreshing, clean feeling you can taste",
+    "rating": 4.5,
+    "categoryId": 2
+  },
+  {
+    "name": "Schick Hydro Silk Touch-Up Multipurpose Exfoliating Dermaplaning Tool, Eyebrow Razor, and Facial Razor with Precision Cover, 3 Count (Packaging May Vary)",
+    "link": "https://www.amazon.com/Schick-Multipurpose-Exfoliating-Dermaplaning-Precision/dp/B0787GLBMV/ref=sr_1_4?pd_rd_r=d98ef259-24d9-41d6-a3c1-7b0d178aecff&pd_rd_w=mQGXr&pd_rd_wg=w5jWN&pf_rd_p=eab778f7-37cf-4c6b-9552-5370900592a9&pf_rd_r=G3H84FMH6FW0DJ8SET4S&qid=1647190915&s=beauty-intl-ship&sr=1-4",
+    "imageLink": "https://m.media-amazon.com/images/I/819Zt6VqJYL._SL1500_.jpg",
+    "description": "Touch-ups are quick and easy with this versatile beauty tool that shapes eyebrows, removes fine hairs, and even smoothens skin",
+    "rating": 4.5,
+    "categoryId": 2
+  },
+  {
+    "name": "CeraVe Moisturizing Cream | Body and Face Moisturizer for Dry Skin | Body Cream with Hyaluronic Acid and Ceramides | Normal | Fragrance Free | 19 Oz",
+    "link": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC/ref=sr_1_5?pd_rd_r=d98ef259-24d9-41d6-a3c1-7b0d178aecff&pd_rd_w=mQGXr&pd_rd_wg=w5jWN&pf_rd_p=eab778f7-37cf-4c6b-9552-5370900592a9&pf_rd_r=G3H84FMH6FW0DJ8SET4S&qid=1647190915&s=beauty-intl-ship&sr=1-5",
+    "imageLink": "https://m.media-amazon.com/images/I/61S7BrCBj7L._SL1000_.jpg",
+    "description": "Dove creates products that keep you feeling cared for, every day. The hypoallergenic, fragrance-free Dove Sensitive Skin Beauty Bar is specially formulated with ¼ moisturizing cream and mild cleansers that won’t irritate sensitive skin while helping skin retain and replenish nutrients and moisture, revealing softer, smoother, and more radiant skin.",
+    "rating": 4.8,
+    "categoryId": 2
+  },
+  {
+    "name": "TruSkin Vitamin C Serum for Face, Anti Aging Serum with Hyaluronic Acid, Vitamin E, Organic Aloe Vera and Jojoba Oil, Hydrating & Brightening Serum for Dark Spots, Fine Lines and Wrinkles, 1 fl oz",
+    "link": "https://www.amazon.com/TruSkin-Naturals-Vitamin-Topical-Hyaluronic/dp/B01M4MCUAF/ref=sr_1_8?pd_rd_r=d98ef259-24d9-41d6-a3c1-7b0d178aecff&pd_rd_w=mQGXr&pd_rd_wg=w5jWN&pf_rd_p=eab778f7-37cf-4c6b-9552-5370900592a9&pf_rd_r=G3H84FMH6FW0DJ8SET4S&qid=1647190915&s=beauty-intl-ship&sr=1-8",
+    "imageLink": "https://m.media-amazon.com/images/I/61nD93IEBKL._SL1500_.jpg",
+    "description": "ANTI AGING FACE SERUM - Vitamin C blends with Botanical Hyaluronic Acid, Vitamin E, Witch Hazel, and Jojoba Oil in an anti aging, skin brightening formula designed to improve wrinkles and dark spots",
+    "rating": 4.8,
+    "categoryId": 2
+  },
+
+
+  {
+    "name": "The Very Hungry Caterpillar",
+    "link": "https://www.amazon.com/Very-Hungry-Caterpillar-Eric-Carle/dp/0399226907/?_encoding=UTF8&pd_rd_w=Rz4XV&pf_rd_p=ba25a0fb-eeb9-4762-9c76-8ca869df5234&pf_rd_r=G3H84FMH6FW0DJ8SET4S&pd_rd_r=d3e4df8f-1283-476a-a471-e3c9078865a3&pd_rd_wg=fta3b&ref_=pd_gw_exports_top_sellers_unrec",
+    "imageLink": "https://m.media-amazon.com/images/P/0399226907.01._SCLZZZZZZZ_SX500_.jpg",
+    "description": "classic picture book, from generation to generation, sold somewhere in the world every 30 seconds! A sturdy and beautiful book to give as a gift for new babies, baby showers, birthdays, and other new beginnings!",
+    "rating": 4.3,
+    "categoryId": 3
+  },
+  {
+    "name": "Level Up: 33 life-changing rules to become the best version of yourself",
+    "link": "https://www.amazon.com/Level-Up-life-changing-version-yourself/dp/B09NHCD7ZJ/?_encoding=UTF8&pd_rd_w=Rz4XV&pf_rd_p=ba25a0fb-eeb9-4762-9c76-8ca869df5234&pf_rd_r=G3H84FMH6FW0DJ8SET4S&pd_rd_r=d3e4df8f-1283-476a-a471-e3c9078865a3&pd_rd_wg=fta3b&ref_=pd_gw_exports_top_sellers_unrec",
+    "imageLink": "https://m.media-amazon.com/images/P/B09NHCD7ZJ.01._SCLZZZZZZZ_SX500_.jpg",
+    "description": "Are you looking for a practical guide that contains rules, lessons, inner game concepts, principles, habits, and practical advice to level up your life and break through to the next level? If the answer is yes, then you are at the right place at the right time.",
+    "rating": 3.6,
+    "categoryId": 3
+  },
+  {
+    "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+    "link": "https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722/ref=pd_sbs_4/134-6611052-6395630?pd_rd_w=9leRg&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=VJHZWY7QQE93FMHJ2M8K&pd_rd_r=27245347-3d90-4573-a601-1b694c0ca1df&pd_rd_wg=TYggN&pd_rd_i=0143130722&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/P/0143130722.01._SCLZZZZZZZ_SX500_.jpg",
+    "description": "One of the unintended—yet positive—consequences of the [pandemic] is that it is forcing people to reevaluate their jobs, careers, and lives. Use this time wisely, find your personal ikigai, and live your best life.",
+    "rating": 4.5,
+    "categoryId": 3
+  },
+  {
+    "name": "Can't Hurt Me: Master Your Mind and Defy the Odds ",
+    "link": "https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287/ref=pd_sbs_6/134-6611052-6395630?pd_rd_w=9leRg&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=VJHZWY7QQE93FMHJ2M8K&pd_rd_r=27245347-3d90-4573-a601-1b694c0ca1df&pd_rd_wg=TYggN&pd_rd_i=1544512287&psc=1",
+    "imageLink": "https://m.media-amazon.com/images/P/1544512279.01._SCLZZZZZZZ_SX500_.jpg",
+    "description": "For David Goggins, childhood was a nightmare -- poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him The Fittest (Real) Man in America",
+    "rating": 5,
+    "categoryId": 3
+  },
+  {
+    "name": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+    "link": "https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863/ref=pd_sbs_2/134-6611052-6395630?pd_rd_w=u7Hji&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=FYPYBBKD4EM228DK9Q20&pd_rd_r=8ab83b2b-212a-4d96-bb80-7f9c49dfa590&pd_rd_wg=V9H4B&pd_rd_i=1250183863&psc=1",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71GqMTCFWtL._AC_SX75_CR,0,0,75,75_.jpg",
+    "description": "Combat, the most intense and dynamic environment imaginable, teaches the toughest leadership lessons, with absolutely everything at stake. Jocko Willink and Leif Babin learned this reality first-hand on the most violent and dangerous battlefield in Iraq. As leaders of SEAL Team Three’s Task Unit Bruiser, their mission was one many thought impossible: help U.S. forces secure Ramadi, a violent, insurgent-held city deemed “all but lost.” In gripping, firsthand accounts of heroism, tragic loss, and hard-won victories, they learned that leadership―at every level―is the most important factor in whether a team succeeds or fails.",
+    "rating": 4.7,
+    "categoryId": 3
+  },
+  {
+    "name": "Soft Tape Measure Double Scale Body Sewing Flexible Ruler for Weight Loss Medical Body Measurement Sewing Tailor Craft Vinyl Ruler, Has Centimetre Scale on Reverse Side 60-inch（White）",
+    "link": "https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW/ref=sr_1_5?crid=25C8HW0KWRY3J&keywords=measuring+tape&qid=1647191673&sprefix=measuring%2Caps%2C480&sr=8-5",
+    "imageLink": "https://m.media-amazon.com/images/I/61vysAVtFBL._AC_SL1406_.jpg",
+    "description": "Great Material: Tailor Vinyl tape measure won't stretch or deform, provides superior measurement consistence; Soft tape measure, a flexible and portable tape measure, made from soft plastic material, white color",
+    "rating": 3.2,
+    "categoryId": 4
+  },
+  {
+    "name": "CARTMAN 148Piece Tool Set General Household Hand Tool Kit with Plastic Toolbox Storage Case Socket and Socket Wrench Sets",
+    "link": "https://www.amazon.com/Cartman-148Piece-General-Household-Plastic/dp/B01NCJTSW7/ref=sr_1_3?crid=3EZ2XUC44KEU1&keywords=tools&qid=1647191781&sprefix=tools%2Caps%2C243&sr=8-3",
+    "imageLink": "https://m.media-amazon.com/images/I/91JQZ+jOi4L._AC_SL1500_.jpg",
+    "description": "Heat treated and chrome plated to resist corrosion. Contains the tools needed for most small repairs around the house",
+    "rating": 4.8,
+    "categoryId": 4
+  },
+  {
+    "name": "Grabber Tool, Wide Jaw,Foldable, Steel Cable, with 96 Grip Points for Firm Grip, 32 with Magnet, Rotating Precision Jaw, Grabber Reacher Tool Seniors",
+    "link": "https://www.amazon.com/Grabber-FitPlus-Premium-Reacher-Warranty/dp/B07T3HTBD9/ref=sr_1_4?crid=3EZ2XUC44KEU1&keywords=tools&qid=1647191914&sprefix=tools%2Caps%2C243&sr=8-4",
+    "imageLink": "https://m.media-amazon.com/images/I/51KGGAZg0QL._AC_SL1500_.jpg",
+    "description": "ROTATING & RUBBERIZED HEAD: Jaw rotates a full 360 degrees in 90 increments to be used both vertically and horizontally get to those hard to reach places like behind furniture or your fridge. Using advanced anti-slip material allowing you to lift slippery items like glass or smooth plastic bottles with ease.",
+    "rating": 4.7,
+    "categoryId": 4
+  },
+  {
+    "name": "WORX WX696L.1 20V 1.5Ah Cordless Oscillating Tool With Accessories Kit Battery and Charger Included",
+    "link": "https://www.amazon.com/WORX-WX696L-1-Cordless-Oscillating-Accessories/dp/B082F4W17B/ref=sxin_14_pa_sp_search_thematic_sspa?crid=3EZ2XUC44KEU1&cv_ct_cx=tools&keywords=tools&pd_rd_i=B082F4W17B&pd_rd_r=50ef426b-3d97-45bd-9c5d-56ba09c2cc45&pd_rd_w=Dyaly&pd_rd_wg=yyFV0&pf_rd_p=3feacbbb-bf22-4bbb-a627-3d7aa821c0c6&pf_rd_r=GK0ADBKJGWEJ2WMTJY78&qid=1647191914&sprefix=tools%2Caps%2C243&sr=1-2-a8004193-6951-43f6-852a-aff7dbba9115-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTlUxNDhVSVpQN1omZW5jcnlwdGVkSWQ9QTA2OTU2NThZTkk3OTM4RUJXR1AmZW5jcnlwdGVkQWRJZD1BMDEyNTYwMTJDNVAwVzJTWjFNME0md2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWMmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl",
+    "imageLink": "https://m.media-amazon.com/images/I/51fEzaLO+eL._AC_SL1000_.jpg",
+    "description": "The universal interface takes all major brand’s oscillating accessories, so you can pop down to the local hardware store when you need a new blade",
+    "rating": 4.8,
+    "categoryId": 4
+  },
+  {
+    "name": "MOTOPOWER MP69033 Car OBD2 Scanner Code Reader Engine Fault Code Reader Scanner CAN Diagnostic Scan Tool for All OBD II Protocol Cars Since 1996, Yellow",
+    "link": "https://www.amazon.com/MOTOPOWER-MP69033-Universal-Diagnostic-Protocol/dp/B07Z3HB7DR/ref=sr_1_9?crid=3EZ2XUC44KEU1&keywords=tools&qid=1647191914&sprefix=tools%2Caps%2C243&sr=8-9",
+    "imageLink": "https://m.media-amazon.com/images/I/61ZmgqNhtbL._AC_SL1200_.jpg",
+    "description": "Practical Multi-Functions OBD2 code reader features built-in OBD2 DTC lookup library, which help you to determine the cause of the engine light, read code, erase code, view freeze frame, I/M ready, vehicle information, data flow, real-time curve, get vehicle speed information, calculate load value, engine coolant temperature, get engine speed.",
+    "rating": 4.6,
+    "categoryId": 4
+  }
+]
