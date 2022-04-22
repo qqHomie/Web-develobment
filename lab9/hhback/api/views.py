@@ -1,22 +1,28 @@
 from .models import Company, Vacancy
 from django.http.response import JsonResponse
 
+from django.views.decorators.http import require_http_methods
+
 
 ## Companies
 
-
+@require_http_methods(["GET", "POST"])
 def companies_list(request):
-    companies = Company.objects.all()
-    companies_json = [company.to_json() for company in companies]
-    return JsonResponse(companies_json, safe=False)
-
+    if request.method == 'GET':
+        companies = Company.objects.all()
+    # companies = Company.objects.all()
+        companies_json = [company.to_json() for company in companies]
+        return JsonResponse(companies_json, safe=False)
 
 def company_detail(request, company_id):
-    try:
-        company = Company.objects.get(id=company_id)
-        return JsonResponse(company.to_json())
-    except Company.DoesNotExist as e:
-        return JsonResponse({'message': str(e)}, status=404)
+    if request.method == 'POST':
+        data = json.loads(request.body)
+        try:
+            company = Company.objects.get(id=company_id)
+            return JsonResponse(company.to_json())
+        except Company.DoesNotExist as e:
+            return JsonResponse({'message': str(e)}, status=404)
+        return JsonResponse(company.to_json(),safe=False)
 
 
 def company_vacancies(request, company_id):
